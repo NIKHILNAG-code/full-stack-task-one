@@ -1,7 +1,7 @@
 Interactive Quiz Ppplication
 company : - Codeteach IT Solutions
 Name : -  Nikhil Nagawade
-Intern ID : -  COD08111
+Intern ID : -  CT06DL1355
 Domain : - Full Stack
 Duration : - 6 Weeks
 Mentor : - Neela santosh
