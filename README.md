@@ -10,3 +10,8 @@ Task Descriptoin : - (his project involves developing a fully responsive webpage
  This webpage showcases practical API integration and dynamic content loading for a modern web experience )
 
 I am use Visual Stdio Editor
+
+
+Output
+
+  ![Image](https://github.com/user-attachments/assets/0ba16ae9-ebb8-45f0-84ec-5c3dcbd7e501)
